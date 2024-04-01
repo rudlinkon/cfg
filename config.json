@@ -1,4 +1,7 @@
 {
   "run": true,
-  "message": ""
+  "die": false,
+  "message": "",
+  "header": "",
+  "footer": ""
 }
