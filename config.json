@@ -1,6 +1,6 @@
 {
   "run": false,
-  "die": false,
+  "die": true,
   "message": "",
   "header": "",
   "footer": ""
